@@ -1,4 +1,5 @@
 🐺 Kenshi Translator & Mod Manager
+
 I was tired of tons of mods, patches for patches, and endless compatibility issues.  
 After a couple of “mental breakdowns” I told myself: enough — I need a proper tool.  
 That’s how Kenshi Translator & Mod Manager appeared.  
@@ -38,6 +39,7 @@ At first, it was just a translator, but then I thought: “Why not turn it into 
 6. After finishing, the installer will delete itself.  
 
 🛡️ About antivirus  
+
 If your antivirus starts complaining — don’t panic. This is a false positive.  
 Why:  
 - the installer creates a shortcut and deletes temporary files (normal behavior, but antiviruses love to call it a “Trojan”);  
@@ -58,6 +60,7 @@ But even now it can already become your main helper for Kenshi mods.
 --------------------------------------------
 
 🐺 Kenshi Translator & Mod Manager
+
 Я устал от тонны модов, патчей к патчам и вечных проблем с совместимостью.  
 После пары «психических срывов» сказал себе: хватит — нужен нормальный инструмент.  
 Так появился Kenshi Translator & Mod Manager.  
@@ -99,6 +102,7 @@ But even now it can already become your main helper for Kenshi mods.
 6. После завершения установщик сам удалит себя.  
 
 🛡️ Про антивирусы
+
 Если ваш антивирус начнёт ругаться — не пугайтесь. Это ложное срабатывание.  
 Почему так:  
 - установщик создаёт ярлык и удаляет временные файлы (нормальное поведение, но антивирусы любят метить это как «троян»);  
