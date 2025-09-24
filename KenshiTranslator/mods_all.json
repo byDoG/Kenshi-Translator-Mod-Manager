@@ -1,0 +1,731 @@
+{
+  "mods": [
+    {
+      "name": "256 Squad Limit",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "=Na Kortah=",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Adventurers Guild - Lore Friendly Recruitment",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "All Materials Back",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "AnimationOverhaul",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Ashigaru Chest",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Attack Slots x5",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "AutomaticFarm",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Beautify For Storage",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Better Hydroponics",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Better Hydroponics RU patch",
+      "enabled": true,
+      "dependencies": [
+        "Better Hydroponics"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "CannibalHair",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "CBT Vanilla Hair Fix",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "citizens",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Dread Limbs",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Fixing Clipping Issues",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Funny Mask",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Great Anims Mod",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Hiver_Expansion",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Immersive non-combat animations",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Kill them all",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "mals_road_repair",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "MartialArtsChiBlast",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Mediocre Hairstyles",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Military craft",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "More Combat Animation",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Native Stylise",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Nomad Pants",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "NPC enjoys more shopping",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "NudeMod+18 vanilla",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Oni Hat",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "PAK_Unit",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Sailback",
+      "enabled": true,
+      "dependencies": [
+        "PAK_Unit"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "poweredMOD UI",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Backpack",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Balance",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Blood",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Caravan",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Faces",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Food",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Trader",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Weapon",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "RecruitPrisoners",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Reduce stones and some other foliage",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Reduced Particle Effects",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "roro hair",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "shoppingecon",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Sideways Wall Ramp RU",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Silent Corpse Flies",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Skeleton Modules",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Sleepe well",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Slopeless",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Stackable Items All",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Texture_Options_1024",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "The Ultimate Turret ru",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Thrasher_Warbot",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Throes of Obedience",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Ttraining technology",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Unofficial Patches for Kenshi",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "WANTED",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Wastelands",
+      "enabled": true,
+      "dependencies": [],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "I'm a robot",
+      "enabled": true,
+      "dependencies": [
+        "Adventurers Guild - Lore Friendly Recruitment",
+        "RecruitPrisoners",
+        "AnimationOverhaul",
+        "More Combat Animation",
+        "Military craft",
+        "Great Anims Mod",
+        "Immersive non-combat animations"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Final Fantasy - Viera",
+      "enabled": true,
+      "dependencies": [
+        "Military craft",
+        "AnimationOverhaul",
+        "Great Anims Mod",
+        "Immersive non-combat animations",
+        "More Combat Animation"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Final Fantasy - Viera RU",
+      "enabled": true,
+      "dependencies": [
+        "Re Final Fantasy - Viera"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Re Steel Path",
+      "enabled": true,
+      "dependencies": [
+        "Military craft",
+        "AnimationOverhaul",
+        "Great Anims Mod",
+        "Immersive non-combat animations",
+        "More Combat Animation"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "Robotic fauna",
+      "enabled": true,
+      "dependencies": [
+        "Thrasher_Warbot",
+        "PAK_Unit",
+        "Sailback"
+      ],
+      "references": [],
+      "sorting": true
+    },
+    {
+      "name": "-KCF autogenerated patch-",
+      "enabled": true,
+      "dependencies": [
+        "- animationoverhaul",
+        "- military craft"
+      ],
+      "references": [],
+      "sorting": "unweighted"
+    },
+    {
+      "name": "Firefly",
+      "enabled": true,
+      "dependencies": [
+        "Firefly"
+      ],
+      "references": [],
+      "sorting": "unweighted"
+    },
+    {
+      "name": "Short Wall Node",
+      "enabled": true,
+      "dependencies": [
+        "Short Wall Attachments"
+      ],
+      "references": [],
+      "sorting": "unweighted"
+    },
+    {
+      "name": "_robotic",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "_test_guard",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Ancient training technology",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "AutomaticFarm eng",
+      "enabled": false,
+      "dependencies": [
+        "AutomaticFarm"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Bull's_Lantern",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Heavy weapon combat stance",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Hive_Princess",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "KenshiTranslator",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Kill them all eng",
+      "enabled": false,
+      "dependencies": [
+        "Kill them all"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Mechanical_Hive",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "NPC Town +Corpse Furnace",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Old_ironsides_merged",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Oni Hat eng",
+      "enabled": false,
+      "dependencies": [
+        "Oni Hat"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "poweredMOD UI MINI",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Re Backpack eng",
+      "enabled": false,
+      "dependencies": [
+        "Re Backpack"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Re Old Machines",
+      "enabled": false,
+      "dependencies": [
+        "Military craft",
+        "AnimationOverhaul",
+        "Great Anims Mod",
+        "More Combat Animation",
+        "Immersive non-combat animations"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Re Race",
+      "enabled": false,
+      "dependencies": [
+        "roro hair"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Re Weapon eng",
+      "enabled": false,
+      "dependencies": [
+        "Re Weapon"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Robotic Fauna eng",
+      "enabled": false,
+      "dependencies": [
+        "PAK_Unit",
+        "Sailback",
+        "Thrasher_Warbot",
+        "Robotic fauna"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "SCAR's pathfinding fix",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Sleepe well eng",
+      "enabled": false,
+      "dependencies": [
+        "Sleepe well"
+      ],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Take Over the World LIMITED",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "TECH Hunters Travelling Traders",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Towns Root",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Wastelands add-on",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    },
+    {
+      "name": "Whistler",
+      "enabled": false,
+      "dependencies": [],
+      "references": [],
+      "sorting": false
+    }
+  ]
+}
