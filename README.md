@@ -42,21 +42,10 @@ EN, UA, RU, DE, FR, ES, PT-BR, IT, PL, NL, TR, CS, HU, SR, RO, EL, BG, JA, KO, Z
 ⚖️ Kenshi Translator & Mod Manager v1.4 — a universal tool for Windows and Steam Deck:  
 mod manager, translator (in development), configurator, and Kenshi launcher — all in one application.
 --------------------------------------------
-[NEXSUSMOD](https://www.nexusmods.com/kenshi/mods/1754)
-[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
-[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
-[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
+👉 [NEXSUSMOD](https://www.nexusmods.com/kenshi/mods/1754)
+👉 [STEAM ](https://steamcommunity.com/sharedfiles/filedetails/?id=3572656370)
+👉 [PAYPAL](https://www.paypal.com/donate?campaign_id=F6YDFCMW4MHG6)
 
-👉 [url=]  [/url] 
-👉 [url=https://github.com/byDoG/Kenshi-Translator-Mod-Manager] GitHub [/url] 
-👉 [url=https://steamcommunity.com/profiles/76561198422455707/myworkshopfiles/] STEAM [/url] 
-👉[url=https://www.paypal.com/donate?campaign_id=F6YDFCMW4MHG6] PAYPAL. [/url] 
-
-
-👉 NEXSUSMOD  
-👉 GitHub  
-👉 STEAM  
-👉 PAYPAL
 ------------------------------------------------------------------------
 🐺 Kenshi Translator & Mod Manager v1.4  
 Многоязычный менеджер и ипереводчик модов для Kenshi (Windows + Steam Deck / Linux).
@@ -102,7 +91,6 @@ EN, UA, RU, DE, FR, ES, PT-BR, IT, PL, NL, TR, CS, HU, SR, RO, EL, BG, JA, KO, Z
 ⚖️ Kenshi Translator & Mod Manager v1.4 — универсальный инструмент для Windows и Steam Deck:  
 менеджер модов, переводчик (в разработке), конфигуратор и лаунчер Kenshi в одном приложении.
 --------------------------------------------
-👉 NEXSUSMOD  
-👉 GitHub  
-👉 STEAM  
-👉 PAYPAL
+👉 [NEXSUSMOD](https://www.nexusmods.com/kenshi/mods/1754)
+👉 [STEAM ](https://steamcommunity.com/sharedfiles/filedetails/?id=3572656370)
+👉 [PAYPAL](https://www.paypal.com/donate?campaign_id=F6YDFCMW4MHG6)
