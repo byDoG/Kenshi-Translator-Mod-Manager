@@ -1,0 +1,22 @@
+name: Test KenshiTranslator.bin
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test-bin:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Verify binary exists
+        run: ls -lh "KenshiTranslav1.4 Win+SteamDeck/prog/"
+
+      - name: Check hash
+        run: sha256sum "KenshiTranslav1.4 Win+SteamDeck/prog/KenshiTranslator.bin"
+
+      - name: Run test (Python fallback)
+        run: |
+          file "KenshiTranslav1.4 Win+SteamDeck/prog/KenshiTranslator.bin" || true
+          echo "Binary test finished"
