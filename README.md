@@ -42,6 +42,17 @@ EN, UA, RU, DE, FR, ES, PT-BR, IT, PL, NL, TR, CS, HU, SR, RO, EL, BG, JA, KO, Z
 ⚖️ Kenshi Translator & Mod Manager v1.4 — a universal tool for Windows and Steam Deck:  
 mod manager, translator (in development), configurator, and Kenshi launcher — all in one application.
 --------------------------------------------
+[NEXSUSMOD](https://www.nexusmods.com/kenshi/mods/1754)
+[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
+[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
+[Скачать KenshiTranslator.exe](https://github.com/byDoG/Kenshi-Translator-Mod-Manager/releases/download/v1.4.0/KenshiTranslator.exe)
+
+👉 [url=]  [/url] 
+👉 [url=https://github.com/byDoG/Kenshi-Translator-Mod-Manager] GitHub [/url] 
+👉 [url=https://steamcommunity.com/profiles/76561198422455707/myworkshopfiles/] STEAM [/url] 
+👉[url=https://www.paypal.com/donate?campaign_id=F6YDFCMW4MHG6] PAYPAL. [/url] 
+
+
 👉 NEXSUSMOD  
 👉 GitHub  
 👉 STEAM  
